@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/iaspis/static/css/main.3005dbe4.chunk.css",
-    "main.js": "/iaspis/static/js/main.25173b02.chunk.js",
-    "main.js.map": "/iaspis/static/js/main.25173b02.chunk.js.map",
+    "main.css": "/iaspis/static/css/main.ecd8c9cf.chunk.css",
+    "main.js": "/iaspis/static/js/main.fc5f6f59.chunk.js",
+    "main.js.map": "/iaspis/static/js/main.fc5f6f59.chunk.js.map",
     "runtime-main.js": "/iaspis/static/js/runtime-main.a3a5eb99.js",
     "runtime-main.js.map": "/iaspis/static/js/runtime-main.a3a5eb99.js.map",
     "static/js/2.b0c9e02d.chunk.js": "/iaspis/static/js/2.b0c9e02d.chunk.js",
     "static/js/2.b0c9e02d.chunk.js.map": "/iaspis/static/js/2.b0c9e02d.chunk.js.map",
     "index.html": "/iaspis/index.html",
-    "precache-manifest.47036596101a59d31f247ffbb992fafb.js": "/iaspis/precache-manifest.47036596101a59d31f247ffbb992fafb.js",
+    "precache-manifest.1c2e5afe6aecd243e779ae149bf64024.js": "/iaspis/precache-manifest.1c2e5afe6aecd243e779ae149bf64024.js",
     "service-worker.js": "/iaspis/service-worker.js",
-    "static/css/main.3005dbe4.chunk.css.map": "/iaspis/static/css/main.3005dbe4.chunk.css.map",
+    "static/css/main.ecd8c9cf.chunk.css.map": "/iaspis/static/css/main.ecd8c9cf.chunk.css.map",
     "static/js/2.b0c9e02d.chunk.js.LICENSE.txt": "/iaspis/static/js/2.b0c9e02d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a3a5eb99.js",
     "static/js/2.b0c9e02d.chunk.js",
-    "static/css/main.3005dbe4.chunk.css",
-    "static/js/main.25173b02.chunk.js"
+    "static/css/main.ecd8c9cf.chunk.css",
+    "static/js/main.fc5f6f59.chunk.js"
   ]
 }
