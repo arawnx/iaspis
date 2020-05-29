@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,MACC,mBAAoB,CACpB,WAAY,CACZ,YAAa,CACb,cAAe,CACf,QAAS,CACT,WACD","file":"main.1abbc38b.chunk.css","sourcesContent":[".text {\n\tfont-size: xxx-large;\n\tborder: none;\n\toutline: none;\n\tposition: fixed;\n\ttop: 10vh;\n\twidth: 100vw;\n}\n"]}
