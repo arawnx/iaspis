@@ -1,10 +1,13 @@
 import React from 'react';
 import './App.css';
 
+log = () => {
+	console.log("HIT");
+}
+
 function App() {
   return (
-    <div>
-    </div>
+	  <input type="text" onKeyDown={log}>
   );
 }
 
