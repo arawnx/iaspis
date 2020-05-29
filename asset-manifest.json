@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/iaspis/static/css/main.5f361e03.chunk.css",
-    "main.js": "/iaspis/static/js/main.388985dd.chunk.js",
-    "main.js.map": "/iaspis/static/js/main.388985dd.chunk.js.map",
-    "runtime-main.js": "/iaspis/static/js/runtime-main.1d0b758a.js",
-    "runtime-main.js.map": "/iaspis/static/js/runtime-main.1d0b758a.js.map",
-    "static/js/2.05057cec.chunk.js": "/iaspis/static/js/2.05057cec.chunk.js",
-    "static/js/2.05057cec.chunk.js.map": "/iaspis/static/js/2.05057cec.chunk.js.map",
+    "main.js": "/iaspis/static/js/main.adc33309.chunk.js",
+    "main.js.map": "/iaspis/static/js/main.adc33309.chunk.js.map",
+    "runtime-main.js": "/iaspis/static/js/runtime-main.a3a5eb99.js",
+    "runtime-main.js.map": "/iaspis/static/js/runtime-main.a3a5eb99.js.map",
+    "static/js/2.aae0e097.chunk.js": "/iaspis/static/js/2.aae0e097.chunk.js",
+    "static/js/2.aae0e097.chunk.js.map": "/iaspis/static/js/2.aae0e097.chunk.js.map",
     "index.html": "/iaspis/index.html",
-    "precache-manifest.0d3ca5cb81619db49069e87da98d8230.js": "/iaspis/precache-manifest.0d3ca5cb81619db49069e87da98d8230.js",
+    "precache-manifest.7503ae2c5681ff6d897d1606cbd7f280.js": "/iaspis/precache-manifest.7503ae2c5681ff6d897d1606cbd7f280.js",
     "service-worker.js": "/iaspis/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/iaspis/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.05057cec.chunk.js.LICENSE.txt": "/iaspis/static/js/2.05057cec.chunk.js.LICENSE.txt",
+    "static/js/2.aae0e097.chunk.js.LICENSE.txt": "/iaspis/static/js/2.aae0e097.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/iaspis/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d0b758a.js",
-    "static/js/2.05057cec.chunk.js",
+    "static/js/runtime-main.a3a5eb99.js",
+    "static/js/2.aae0e097.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.388985dd.chunk.js"
+    "static/js/main.adc33309.chunk.js"
   ]
 }
