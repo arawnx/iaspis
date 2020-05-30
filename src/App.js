@@ -2,6 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import './App.css';
 
+import lexicon from './lexicon.json';
+
 class TextInput extends React.Component {
 	constructor(props) {
 		super(props);
@@ -44,11 +46,12 @@ TextInput.propTypes = {
 class App extends React.Component {
 	constructor(props) {
 		super(props);
-		this.state = {target: 'test'};
+		this.state = {target: lexicon[Math.floor()*lexicon.length]};
 	}
 
 	reloadTarget = () => {
-		this.setState({target: 'reloaded'});
+		this.setState({target: lexicon[Math.floor()*lexicon.length]});
+
 	}
 
 	render() {
