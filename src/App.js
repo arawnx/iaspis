@@ -16,7 +16,7 @@ class TextInput extends React.Component {
 
 	tookInput = (e) => {
 		if(e.target.value !== this.props.target.substring(0, e.target.value.length)) {
-			if(e.target.value.charAt(e.target.value.length-1) != ' ') {
+			if(e.target.value.charAt(e.target.value.length-1) !== ' ') {
 				this.inputRef.current.value = e.target.value.substring(0, e.target.value.length-1);
 				this.inputRef.current.style.backgroundColor = "rgba(200,0,0,0.4)";
 				setTimeout(() => {
