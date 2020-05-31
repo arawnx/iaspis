@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af5196a5432d31c4757898b45a70b31a",
+    "revision": "6935d681302e12c27b93d9dd36faed3f",
     "url": "/iaspis/index.html"
   },
   {
