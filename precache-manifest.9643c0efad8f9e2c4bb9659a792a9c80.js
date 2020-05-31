@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34512ecd4bb3c669c09bbac340ca7d00",
+    "revision": "7140db121a97c76cd12a5a783da3c120",
     "url": "/iaspis/index.html"
   },
   {
-    "revision": "39f4572bd0cfc1ab0869",
+    "revision": "8bfcce2e1337b943b181",
     "url": "/iaspis/static/css/main.454eb613.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iaspis/static/js/2.b0c9e02d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "39f4572bd0cfc1ab0869",
-    "url": "/iaspis/static/js/main.5558ab9b.chunk.js"
+    "revision": "8bfcce2e1337b943b181",
+    "url": "/iaspis/static/js/main.3bfe2724.chunk.js"
   },
   {
     "revision": "7fd8e66d2729ccb9c5db",
