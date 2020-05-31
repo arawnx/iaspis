@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/iaspis/static/css/main.398ff83f.chunk.css",
-    "main.js": "/iaspis/static/js/main.1cf6f2cf.chunk.js",
-    "main.js.map": "/iaspis/static/js/main.1cf6f2cf.chunk.js.map",
+    "main.js": "/iaspis/static/js/main.0f279dc7.chunk.js",
+    "main.js.map": "/iaspis/static/js/main.0f279dc7.chunk.js.map",
     "runtime-main.js": "/iaspis/static/js/runtime-main.a3a5eb99.js",
     "runtime-main.js.map": "/iaspis/static/js/runtime-main.a3a5eb99.js.map",
     "static/js/2.b0c9e02d.chunk.js": "/iaspis/static/js/2.b0c9e02d.chunk.js",
     "static/js/2.b0c9e02d.chunk.js.map": "/iaspis/static/js/2.b0c9e02d.chunk.js.map",
     "index.html": "/iaspis/index.html",
-    "precache-manifest.eef039867b72fa1d5406f7b1d95632e9.js": "/iaspis/precache-manifest.eef039867b72fa1d5406f7b1d95632e9.js",
+    "precache-manifest.1bb0e51eb5b3b66c1fe7c6347f40e104.js": "/iaspis/precache-manifest.1bb0e51eb5b3b66c1fe7c6347f40e104.js",
     "service-worker.js": "/iaspis/service-worker.js",
     "static/css/main.398ff83f.chunk.css.map": "/iaspis/static/css/main.398ff83f.chunk.css.map",
     "static/js/2.b0c9e02d.chunk.js.LICENSE.txt": "/iaspis/static/js/2.b0c9e02d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a3a5eb99.js",
     "static/js/2.b0c9e02d.chunk.js",
     "static/css/main.398ff83f.chunk.css",
-    "static/js/main.1cf6f2cf.chunk.js"
+    "static/js/main.0f279dc7.chunk.js"
   ]
 }
