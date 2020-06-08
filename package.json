@@ -36,6 +36,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^2.2.0",
+    "websocket-extensions": "^0.1.4"
   }
 }
